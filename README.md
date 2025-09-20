@@ -26,3 +26,7 @@ Análise Geográfica da Equipe de Vendas:
 Para entender a performance dos vendedores em diferentes regiões, utilizei o gráfico de Mapa.
 
 Essa visualização permitiu identificar rapidamente o desempenho geográfico da equipe, com foco especial nos vendedores que alcançaram vendas acima de R$ 30.000.
+
+Recursos Adicionais:
+
+Índice Interativo: Para facilitar a navegação entre os diferentes dashboards e análises, criei um índice de navegação.
